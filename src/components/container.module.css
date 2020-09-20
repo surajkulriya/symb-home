@@ -1,0 +1,22 @@
+.container {
+    margin: 3rem auto;
+    max-width: 600px;
+  }
+
+  .row {
+    display: flex;
+  }
+  .column {
+    float: left;
+    /* padding: 10px; */
+    width: 50%;
+    height: 300px; /* Should be removed. Only for demonstration */
+  }
+  
+  .left {
+    width: 50%;
+  }
+  
+  .right {
+    width: 50%;
+  }

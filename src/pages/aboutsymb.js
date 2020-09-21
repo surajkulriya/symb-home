@@ -10,7 +10,6 @@ export default function About(){
       <Header />
     </div>
 
-            {/* hello world */}
             <div style={{ color: `teal` }}>
       <Footer />
     </div>               

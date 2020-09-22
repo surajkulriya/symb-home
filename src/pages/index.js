@@ -9,10 +9,6 @@ import Header from "../components/header"
 export default function Home() {
   return (
     <div style={{ backgroundColor: "#ffffff" }}>
-
-
-
-
       <div style={{ color: `teal` }}>
         <Header />
       </div>

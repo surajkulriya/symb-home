@@ -6,7 +6,7 @@ import { MDBBtn } from "mdbreact";
 export default function Header() {
   return (
     <Navbar bg="white" expand="lg">
-  <Navbar.Brand href="#home"><img src="https://github.com/surajkulriya/symb-home/blob/master/static/folder1/headerimg.jpg" style={{ width: "70%", height: "auto",paddingLeft:"4%" }} alt="yo"></img></Navbar.Brand>
+  <Navbar.Brand href="#home"><img src="/headerimg.jpg" style={{ width: "70%", height: "auto",paddingLeft:"4%" }} alt="yo"></img></Navbar.Brand>
   {/* <Navbar.Toggle aria-controls="basic-navbar-nav" /> */}
   <Navbar.Collapse id="basic-navbar-nav">
     

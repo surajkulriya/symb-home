@@ -113,7 +113,7 @@ export default function Home() {
         </div>
         <div>
 
-        <img src="/vector-smart-object_3@3x.jpg" style={{ width: "70%", height: "auto",paddingLeft:"4%" }} alt="dev"></img>
+        <img src="/headerimg.jpg" style={{ width: "70%", height: "auto",paddingLeft:"4%" }} alt="dev"></img>
 
 
           <h5 style={{ padding: "1% 4%", width: "75%" }}><Row>

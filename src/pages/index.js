@@ -16,7 +16,7 @@ export default function Home() {
 
 
 <Navbar bg="white" expand="lg">
-  <Navbar.Brand href="#home"><img src="/vector-smart-object_3@3x.jpg" style={{ width: "70%", height: "auto",paddingLeft:"4%" }} alt="dev"></img></Navbar.Brand>
+  <Navbar.Brand href="#home"> <img src="fff.svg" style={{ width: "80%", padding: "1% 2%" }} alt="yo"></img></Navbar.Brand>
   {/* <Navbar.Toggle aria-controls="basic-navbar-nav" /> */}
   <Navbar.Collapse id="basic-navbar-nav">
     
@@ -113,7 +113,7 @@ export default function Home() {
         </div>
         <div>
 
-        <img src="/headerimg.jpg" style={{ width: "70%", height: "auto",paddingLeft:"4%" }} alt="dev"></img>
+        {/* <img src="fff.svg" style={{ width: "80%", padding: "1% 2%" }} alt="yo"></img> */}
 
 
           <h5 style={{ padding: "1% 4%", width: "75%" }}><Row>

@@ -2,7 +2,7 @@ import React from "react"
 import Footer from "../components/footer"
 import Header from "../components/header"
 import Row from 'react-bootstrap/Row';
-import Button from 'react-bootstrap/Button';
+// import Button from 'react-bootstrap/Button';
 import Card from "react-bootstrap/Card";
 export default function Home() {
   return (
@@ -30,57 +30,82 @@ export default function Home() {
          </div>
          </Row>
      </div>
-    <div>
+    <div style={{padding:"5% 6%"}}>
 
         <Row>
             <div class="col-md-4">
 
-            <Card style={{ width: '18rem' }}>
-            <Card.Img variant="top" src="holder.js/100px180" />
+            <Card style={{ width: '100%',border:"none"  }}>
+            <p style={{position:"absolute",fontSize:"270%",padding:"29% 9%",color:"white",fontWeight:"bold",width:"170%"}}>Noida</p>
+            <p style={{position:"absolute",fontSize:"120%",padding:"41% 9%",color:"white",width:"170%"}}>May 2nd,2020 7:29:26 pm</p>
+            <Card.Img variant="top"  src="assets_Contact Us_2020-09-22 /layer-8.jpg"/>
+            
             <Card.Body>
-                <Card.Title>Card Title</Card.Title>
-                <Card.Text>
-                Some quick example text to build on the card title and make up the bulk of
-                the card's content.
+                
+                <Card.Text style={{width:"60%",fontSize:"150%",position:"absolute"}}>
+                Lorem ipsum dolor sit amet, consctetur adipiscing elit, sed do eiusmod tempor
                 </Card.Text>
-                <Button variant="primary">Go somewhere</Button>
+               
             </Card.Body>
             </Card>
 
             </div>
+
+            <div class="col-md-4" >
+
+            <Card style={{ width: '100%',border:"none" }}>
+            <p style={{position:"absolute",fontSize:"270%",padding:"29% 9%",color:"white",fontWeight:"bold",width:"170%"}}>Toronto</p>
+            <p style={{position:"absolute",fontSize:"120%",padding:"41% 9%",color:"white",width:"170%"}}>May 2nd,2020 7:29:26 pm</p>
+            <Card.Img variant="top" src="assets_Contact Us_2020-09-22 /layer-4.jpg" />
+            <Card.Body>
+                
+                <Card.Text style={{width:"60%",fontSize:"150%"}}>
+                4201-10 Navy Wharf Court Toronto On M5V 3V2
+                </Card.Text>
+               
+            </Card.Body>
+            </Card>
+
+            </div>
+
 
             <div class="col-md-4">
 
-            <Card style={{ width: '18rem' }}>
-            <Card.Img variant="top" src="holder.js/100px180" />
+            <Card style={{ width: '100%',border:"none" }}>
+            <p style={{position:"absolute",fontSize:"270%",padding:"29% 9%",color:"white",fontWeight:"bold",width:"170%"}}>London</p>
+            <p style={{position:"absolute",fontSize:"120%",padding:"41% 9%",color:"white",width:"170%"}}>May 2nd,2020 7:29:26 pm</p>
+            <Card.Img variant="top" src="assets_Contact Us_2020-09-22 /layer-7.jpg" />
             <Card.Body>
-                <Card.Title>Card Title</Card.Title>
-                <Card.Text>
-                Some quick example text to build on the card title and make up the bulk of
-                the card's content.
+                
+                <Card.Text style={{width:"60%",fontSize:"150%"}}>
+                612, 122 East Ferry Road, London, E14 9ET
                 </Card.Text>
-                <Button variant="primary">Go somewhere</Button>
+               
             </Card.Body>
             </Card>
 
             </div>
+        </Row>
 
-
+        <Row style={{paddingTop:"7%"}}>
             <div class="col-md-4">
 
-            <Card style={{ width: '18rem' }}>
-            <Card.Img variant="top" src="holder.js/100px180" />
+            <Card style={{ width: '100%',border:"none" }}>
+            <p style={{position:"absolute",fontSize:"270%",padding:"29% 9%",color:"white",fontWeight:"bold",width:"170%"}}>Milan</p>
+            <p style={{position:"absolute",fontSize:"120%",padding:"41% 9%",color:"white",width:"170%"}}>May 2nd,2020 7:29:26 pm</p>
+            <Card.Img variant="top"  src="assets_Contact Us_2020-09-22 /layer-6.jpg" />
             <Card.Body>
-                <Card.Title>Card Title</Card.Title>
-                <Card.Text>
-                Some quick example text to build on the card title and make up the bulk of
-                the card's content.
+                
+                <Card.Text style={{width:"60%",fontSize:"150%"}}>
+                Lorem ipsum dolor sit amet, consctetur adipiscing elit, sed do eiusmod tempor
                 </Card.Text>
-                <Button variant="primary">Go somewhere</Button>
+               
             </Card.Body>
             </Card>
 
             </div>
+
+            
         </Row>
 
 

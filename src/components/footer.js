@@ -12,7 +12,8 @@ return(
 <div class="col-md-5" backgroundColor="#eff8ff" style={{padding:"0% 0%"}}>
     
       <div style={{backgroundColor:"#eff8ff",heigth:"80%",padding:"0% 0%"}}>
-        <img src="/vector-smart-object.jpg" style={{ width: "80%",padding:"9% 0%"}} alt="yo"></img>  
+        <img src="footerimg1.jpg" style={{ width: "80%",padding:"9% 0%"}} alt="yo"></img>  
+        {/* <img src="headerimg.jpg" style={{ width: "80%", padding: "1% 2%" }} alt="yo"></img> */}
       </div>
       </div>
       <div class="col-md">

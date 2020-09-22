@@ -16,7 +16,7 @@ export default function Header() {
       <Nav.Link href="services_main_page" style={{color:"black",fontSize:"90%",fontWeight:"bold"}}>What do we do?</Nav.Link>
       <Nav.Link href="#link" style={{color:"black",fontSize:"90%",fontWeight:"bold"}}>How do we do it?</Nav.Link>
       <Nav.Link href="#link" style={{color:"black",fontSize:"90%",fontWeight:"bold"}}>Why us?</Nav.Link>
-      <Nav.Link href="#link" class="pull-right" style={{color:"black",fontSize:"80%",fontWeight:"bold"}}><MDBBtn color="primary" rounded>Work with us</MDBBtn></Nav.Link>
+      <Nav.Link href="contact" class="pull-right" style={{color:"black",fontSize:"80%",fontWeight:"bold"}}><MDBBtn color="primary" rounded>Work with us</MDBBtn></Nav.Link>
     </Nav>
     </div>
     

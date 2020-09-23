@@ -105,7 +105,7 @@ export default function Home() {
         <div class="col-md-12">
           <Row style={{ padding: "2% 2%" }}>
             <div class="col-md-4">
-            <Card class="col-md-4" style={{ padding: "1% 1%", border: "none" }}>
+            <Card class="col-md" style={{ padding: "1% 1%", border: "none" }}>
               <Card.Img variant="top" src="seo-and-web.svg" style={{ width: "180px", height: "100px", border: "none" }} />
               <Card.Body>
                 <Card.Title>Analyse</Card.Title>
@@ -118,7 +118,7 @@ export default function Home() {
             </Card>
             </div>
             <div class="col-md-4">
-            <Card class="col-md-4" style={{ padding: "1% 1%", border: "none" }}>
+            <Card class="col-md" style={{ padding: "1% 1%", border: "none" }}>
               <Card.Img variant="top" src="pencil.svg" style={{ width: "180px", height: "100px" }} />
               <Card.Body>
                 <Card.Title>Create</Card.Title>
@@ -131,7 +131,7 @@ export default function Home() {
             </Card>
             </div>
             <div class="col-md-4">
-            <Card class="col-md-4" style={{  padding: "1% 1%", border: "none" }}>
+            <Card class="col-md" style={{  padding: "1% 1%", border: "none" }}>
               <Card.Img variant="top" src="vehicle.svg" style={{ width: "180px", height: "100px", border: "none" }} />
               <Card.Body>
                 <Card.Title>Deliver</Card.Title>

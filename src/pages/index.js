@@ -39,7 +39,7 @@ export default function Home() {
 
 
             <Row>
-              <Col><img src="favicon.ico" style={{ width: "20px", height: "auto" }} alt="yo"></img></Col>
+              <Col><img src="favicon.ico" style={{ width: "20%", height: "auto" }} alt="yo"></img></Col>
               <Col><img src="favicon.ico" style={{ width: "20%", height: "auto" }} alt="yo"></img></Col>
               <Col><img src="favicon.ico" style={{ width: "20%", height: "auto" }} alt="yo"></img></Col>
               <Col><img src="favicon.ico" style={{ width: "20%", height: "auto" }} alt="yo"></img></Col>

@@ -38,7 +38,7 @@ export default function Home() {
             <Card style={{ width: '100%',border:"none"  }}>
             <p style={{position:"absolute",fontSize:"270%",padding:"29% 9%",color:"white",fontWeight:"bold",width:"170%"}}>Noida</p>
             <p style={{position:"absolute",fontSize:"120%",padding:"41% 9%",color:"white",width:"170%"}}>May 2nd,2020 7:29:26 pm</p>
-            <Card.Img variant="top"  src="assets_Contact Us_2020-09-22 /layer-8.jpg"/>
+            <Card.Img variant="top"  src="/assets_Contact Us_2020-09-22 /layer-8.jpg"/>
             
             <Card.Body>
                 
@@ -56,7 +56,7 @@ export default function Home() {
             <Card style={{ width: '100%',border:"none" }}>
             <p style={{position:"absolute",fontSize:"270%",padding:"29% 9%",color:"white",fontWeight:"bold",width:"170%"}}>Toronto</p>
             <p style={{position:"absolute",fontSize:"120%",padding:"41% 9%",color:"white",width:"170%"}}>May 2nd,2020 7:29:26 pm</p>
-            <Card.Img variant="top" src="assets_Contact Us_2020-09-22 /layer-4.jpg" />
+            <Card.Img variant="top" src="/assets_Contact Us_2020-09-22 /layer-4.jpg" />
             <Card.Body>
                 
                 <Card.Text style={{width:"60%",fontSize:"150%"}}>
@@ -74,7 +74,7 @@ export default function Home() {
             <Card style={{ width: '100%',border:"none" }}>
             <p style={{position:"absolute",fontSize:"270%",padding:"29% 9%",color:"white",fontWeight:"bold",width:"170%"}}>London</p>
             <p style={{position:"absolute",fontSize:"120%",padding:"41% 9%",color:"white",width:"170%"}}>May 2nd,2020 7:29:26 pm</p>
-            <Card.Img variant="top" src="assets_Contact Us_2020-09-22 /layer-7.jpg" />
+            <Card.Img variant="top" src="/assets_Contact Us_2020-09-22 /layer-7.jpg" />
             <Card.Body>
                 
                 <Card.Text style={{width:"60%",fontSize:"150%"}}>
@@ -93,7 +93,7 @@ export default function Home() {
             <Card style={{ width: '100%',border:"none" }}>
             <p style={{position:"absolute",fontSize:"270%",padding:"29% 9%",color:"white",fontWeight:"bold",width:"170%"}}>Milan</p>
             <p style={{position:"absolute",fontSize:"120%",padding:"41% 9%",color:"white",width:"170%"}}>May 2nd,2020 7:29:26 pm</p>
-            <Card.Img variant="top"  src="assets_Contact Us_2020-09-22 /layer-6.jpg" />
+            <Card.Img variant="top"  src="/assets_Contact Us_2020-09-22 /layer-6.jpg" />
             <Card.Body>
                 
                 <Card.Text style={{width:"60%",fontSize:"150%"}}>
